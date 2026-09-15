@@ -1,2 +1,2 @@
 # KSR_PYTHON_FULL_STACK_ASSIGNMENTS
-Assignments and practice work completed as part of the KSR Python Full Stack course.
+Python Full Stack assignments, practice programs, and projects completed during the course.
